@@ -1,1 +1,3 @@
-# engineering-toolbox
+Engineering Toolbox
+
+Library for Engineering calculations.
